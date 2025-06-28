@@ -1,0 +1,14 @@
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/bin/Debug/net6.0/SeminarHub.Data.deps.json
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/bin/Debug/net6.0/SeminarHub.Data.runtimeconfig.json
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/bin/Debug/net6.0/SeminarHub.Data.dll
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/bin/Debug/net6.0/SeminarHub.Data.pdb
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.csproj.AssemblyReference.cache
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.AssemblyInfoInputs.cache
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.AssemblyInfo.cs
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.csproj.CoreCompileInputs.cache
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.dll
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/refint/SeminarHub.Data.dll
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.pdb
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/SeminarHub.Data.genruntimeconfig.cache
+/Users/norjooganbat/Lesson/L7 Containers and Cloud Course - May 2025/Containers-and-Clouds-Exam/Regular-Exam-Resources/Task-2/SeminarHub.Data/obj/Debug/net6.0/ref/SeminarHub.Data.dll
